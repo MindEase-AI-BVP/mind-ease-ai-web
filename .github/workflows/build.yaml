@@ -2,9 +2,9 @@ name: CI - Next.js Build Check
 
 on:
   push:
-    branches: [ main, master, develop ]
+    branches: [ main, master, dev ]
   pull_request:
-    branches: [ main, master, develop ]
+    branches: [ main, master, dev ]
 
 jobs:
   build:
@@ -19,15 +19,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: 'pnpm' 
+          cache: 'npm' 
 
       - name: Install Dependencies
-        run: pnpm i
+        run: npm i
 
       - name: Type Check & Lint
         run: |
-          pnpm run lint --if-present
+          npm run lint --if-present
 
       - name: Build Next.js Application
-        run: pnpm run build
+        run: npm run build
        
