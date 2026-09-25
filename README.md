@@ -8,11 +8,11 @@ MindEase AI is a 24/7 GenAI-powered mental health companion designed specificall
 
 ## ⚡ Key Features
 
-* **24/7 GenAI Support:** Instant, empathetic conversational AI tailored for late-night exam stress and academic pressure[cite: 1].
-* **Student-Centric Context:** Speaks student-friendly language with contextual memory around exams, placements, and hostel life[cite: 1].
+* **24/7 GenAI Support:** Instant, empathetic conversational AI tailored for late-night exam stress and academic pressure.
+* **Student-Centric Context:** Speaks student-friendly language with contextual memory around exams, placements, and hostel life.
 * **Safety & Crisis Protocols:** Built-in guardrails and real-time helpline escalation for severe distress.
 * **Micro-Interventions:** Integrated CBT grounding exercises, guided breathing, and mood tracking.
-* **100% Free & Anonymous:** Lowers friction and stigma by eliminating appointment barriers and high therapy costs[cite: 1].
+* **100% Free & Anonymous:** Lowers friction and stigma by eliminating appointment barriers and high therapy costs.
 
 ---
 ## 🛠️ Tech Stack
