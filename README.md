@@ -15,7 +15,6 @@ MindEase AI is a 24/7 GenAI-powered mental health companion designed specificall
 * **100% Free & Anonymous:** Lowers friction and stigma by eliminating appointment barriers and high therapy costs[cite: 1].
 
 ---
-
 ## 🛠️ Tech Stack
 
 ### **Frontend**
